@@ -21,6 +21,12 @@ Then install all the dependencies from the requirement file as below.
 pip install -r requirements.txt
 ```
 
+## Data Analysis Notebook
+
+```
+notebooks/firm_analysis.ipynb
+```
+
 ## Architecture Proposed
 
 Building a pipeline involving data processing and analytics involves multiple steps from getting the raw data to serving the results. In the architecture proposed we cover a high level process to get data, process it, store it, build reports, build ML models, and finally deploy, and serve the model. I have built the architecture with a combination of Microsoft Azure and Databricks giving high value to scalability and MLOps. 
