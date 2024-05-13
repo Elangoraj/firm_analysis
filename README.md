@@ -21,6 +21,10 @@ Then install all the dependencies from the requirement file as below.
 pip install -r requirements.txt
 ```
 
+## Data input 
+
+Create input folder and put the data into input folder before running the notebook. 
+
 ## Data Analysis Notebook
 
 ```
